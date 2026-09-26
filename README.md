@@ -1,6 +1,6 @@
 # 🧃 Youtea APP
 
-O aplicativo oficial do **Youtea Server**! Desenvolvido em Electron para trazer acesso rápido, contagem regressiva para a reabertura do servidor e configurações personalizadas direto no seu desktop.
+O aplicativo oficial do **Youtea Server**! Desenvolvido pela equipe Youteam, para trazer novidades e praticidade para os usuarios.
 
 ---
 
