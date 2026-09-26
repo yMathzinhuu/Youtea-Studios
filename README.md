@@ -1,36 +1,36 @@
-# 🍵 Youtea APP
+# 🧃 Youtea APP
 
-O aplicativo oficial do **Youtea Server**! Criado para reunir a comunidade do nosso servidor Survival de Minecraft, facilitar o acesso às informações e manter todo mundo atualizado sobre o que acontece na nossa comunidade.
-
----
-
-## 📸 Preview do App
-
-![Youtea APP Preview](preview.jpg)
+O aplicativo oficial do **Youtea Server**! Desenvolvido em Electron para trazer acesso rápido, contagem regressiva para a reabertura do servidor e configurações personalizadas direto no seu desktop.
 
 ---
 
-## ⚡ O que o App faz?
+## 📸 Screenshots
 
-* **📋 Copiar IP com 1 Clique:** Chega de ficar digitando ou procurando o IP no Discord. Clicou, copiou!
-* **⏳ Contagem Regressiva:** Acompanhe em tempo real quanto tempo falta para a reabertura oficial do servidor (16/10/2026).
-* **🖥️ Titlebar Customizada:** Estilo Windows 11 / Discord, integrada perfeitamente ao visual do app.
-* **📊 Status da Comunidade:** Veja os dados e contagem de jogadores online tanto do nosso servidor do Discord quanto do Minecraft.
-* **⚙️ Painel de Configurações:**
-  * Opção de ativar/desativar a **Aceleração de Hardware** para deixar a navegação mais leve.
-  * Controle de **Atualizações Automáticas**.
-* **🚀 Atualizações Automáticas via GitHub:** Sempre que uma nova versão do app for lançada, um aviso aparece no topo da tela para você atualizar em um clique.
+<div align="center">
+  <p><b>Tela Inicial</b></p>
+  <img src="iniciopreview.png" alt="Tela de Início do Youtea APP" width="700">
+  <br><br>
+  <p><b>Tela de Configurações</b></p>
+  <img src="configpreview.png" alt="Tela de Configurações do Youtea APP" width="700">
+</div>
 
 ---
 
-## 🛠️ Como rodar o projeto no seu computador
+## ✨ Recursos
 
-Se você quer testar o código ou modificar alguma coisa, siga os passos abaixo:
+* **Barra de Título Customizada:** Visual moderno estilo Discord/Windows 11, totalmente integrado ao app.
+* **Contagem Regressiva:** Acompanhe em tempo real o tempo restante para a grande reabertura do servidor.
+* **Temas Personalizados:** Alterne facilmente entre o modo **Escuro** e o modo **Claro Suave**.
+* **Atualizações Automáticas:** O app avisa e baixa novas versões direto das *Releases* do GitHub.
+* **Leve e Otimizado:** Consumo de memória RAM reduzido para rodar tranquilo em segundo plano.
 
-### Pré-requisitos
-* [Node.js](https://nodejs.org/) instalado no seu PC.
+---
 
-### Passo a passo
-1. Clone este repositório:
+## 🚀 Como Rodar o Projeto
+
+Se você quiser testar ou modificar o código no seu computador:
+
+1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/yMathzinhuu/Youtea-Studios-APP.git](https://github.com/yMathzinhuu/Youtea-Studios-APP.git)
+   git clone [https://github.com/yMathzinhuu/Youtea-Studios.git](https://github.com/yMathzinhuu/Youtea-Studios.git)
+   cd Youtea-Studios
